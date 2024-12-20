@@ -1,1 +1,8 @@
-# Final-Project
+# Impact of Federal Energy Policy on Uptake of Renewable Energy Technology Research in the United States of America
+This study aims to understand the effect of federal energy policies on research trends and the uptake of renewable energy technologies in the United States. With commitments to achieving a net-zero economy by 2050, the U.S. has implemented several federal policies since the 2000s, such as the Energy Policy Act of 2005, the Energy Security and Independence Act of 2007, and the Inflation Reduction Act of 2022. These policies aim to incentivize renewable energy adoption, infrastructure development, and innovation.
+
+Using data sourced from ProQuest's scientific databases, this research categorizes journal articles and documents into time periods corresponding to significant federal policies. Topic modeling techniques, specifically LDA and Tomotopy, were applied to analyze key themes and research focuses. The analysis explored whether these policies shifted scientific narratives from traditional energy sources like oil and gas toward renewable energy technologies, such as wind and solar power.
+
+Preliminary results reveal limited evidence linking federal energy policies directly to increased research on renewable technologies. While certain energy-related keywords emerged, the thematic analysis did not demonstrate significant patterns aligning with the policies' objectives. The study highlights key limitations, including data scope, noise from unrelated environmental research, and the need for refined topic modeling techniques.
+
+This research emphasize the importance of evaluating the efficacy of federal energy policies in promoting innovation. Future analysis addressing identified limitations may produce deeper insights into the relationship between policy implementation and technological advancements in renewable energies in the US. 
